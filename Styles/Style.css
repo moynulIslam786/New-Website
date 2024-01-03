@@ -2,4 +2,7 @@ div{
     font-size: larger;
     color: blue;
     background-color: azure;
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 2px solid black;
 }
